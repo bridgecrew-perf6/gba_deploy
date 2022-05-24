@@ -1,0 +1,17 @@
+{
+  "main.css": "/gba_deploy/static/css/main.8328e5c1.chunk.css",
+  "main.js": "/gba_deploy/static/js/main.bca8c6f2.chunk.js",
+  "main.js.map": "/gba_deploy/static/js/main.bca8c6f2.chunk.js.map",
+  "static/js/1.8f1f9bdd.chunk.js": "/gba_deploy/static/js/1.8f1f9bdd.chunk.js",
+  "static/js/1.8f1f9bdd.chunk.js.map": "/gba_deploy/static/js/1.8f1f9bdd.chunk.js.map",
+  "static/css/2.10284343.chunk.css": "/gba_deploy/static/css/2.10284343.chunk.css",
+  "static/js/2.0f5afa40.chunk.js": "/gba_deploy/static/js/2.0f5afa40.chunk.js",
+  "static/js/2.0f5afa40.chunk.js.map": "/gba_deploy/static/js/2.0f5afa40.chunk.js.map",
+  "runtime~main.js": "/gba_deploy/static/js/runtime~main.bcb4c9f8.js",
+  "runtime~main.js.map": "/gba_deploy/static/js/runtime~main.bcb4c9f8.js.map",
+  "static/css/main.8328e5c1.chunk.css.map": "/gba_deploy/static/css/main.8328e5c1.chunk.css.map",
+  "static/css/2.10284343.chunk.css.map": "/gba_deploy/static/css/2.10284343.chunk.css.map",
+  "index.html": "/gba_deploy/index.html",
+  "precache-manifest.50d296c2666bd325021c0aa5171fd377.js": "/gba_deploy/precache-manifest.50d296c2666bd325021c0aa5171fd377.js",
+  "service-worker.js": "/gba_deploy/service-worker.js"
+}
